@@ -1,0 +1,47 @@
+
+
+.nav_bar {
+    padding-top: 36px;
+  
+    width: 1144px;
+    height: 54px;
+    text-decoration: none;
+    color: rgb(10, 9, 9);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    width: 134px;
+    height: 54px;
+    background:  url("/img/group10330.png") 0% 0% no-repeat
+      padding-box;
+    opacity: 1;
+  }
+  .menu {
+    display: flex;
+    padding-right: 10px;
+  }
+  .menu ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  .menu ul li a {
+    text-decoration: none;
+    color: rgb(14, 6, 6);
+    font: normal normal medium 17px/33px Gilroy ☞;
+    letter-spacing: 0px;
+    padding-left: 50px;
+    opacity: 1;
+  }
+  
+  .contact {
+    width: 142px;
+    height: 40px;
+    background: #4219f5 0% 0% no-repeat padding-box;
+    border-radius: 25px;
+    opacity: 1;
+  }
+ 
