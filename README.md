@@ -1,2 +1,2 @@
 # cronj-task2
-my 2nd project
+my 2nd project of cronj
